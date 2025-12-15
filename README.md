@@ -2,8 +2,8 @@
 
 # 👋 WELCOME TO MY GITHUB PROFILE
 
-I am a **university student** passionate about technology and problem-solving. I enjoy exploring new tools, building efficient solutions, and contributing to **open-source projects**.  
+I am a **university student** passionate about technology, problem solving and working on new projects.
 
-I am particularly interested in **web development** and **minecraft plugin development**, and I’m always eager to learn and grow!  
+I am particularly interested in **cybersecurity**, **minecraft plugins** and **web-development**, and I’m always eager to learn and grow!  
 
 </div>
