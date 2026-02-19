@@ -16,7 +16,7 @@
 * **Networking:** Fundamentals (In Progress)
 ---
 
-### 🛠️ Key Project: CLI File Management System
+### 🛠️ Key Project: Python-CLI-Based-Name-Sorting
 *A Python-based utility for programmatically managing file I/O operations.*
 
 * **Functionality:** Read, Write, Append a file through the CLI 
