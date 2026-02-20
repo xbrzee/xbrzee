@@ -8,12 +8,12 @@
 ### 🔧 Key-Concepts Which I Know : 
 
 **Languages & Frameworks**
-* **Python:** Fundamentals & Django (In Progress)
+* **Python:** Fundamentals & Django
 * **C:** Low-level programming fundamentals
-* **Web:** HTML5 & Tailwind CSS & JavaScript (In Progress)
+* **Web:** HTML5 & Tailwind CSS & JavaScript
 
 **Security & Systems**
-* **Networking:** Fundamentals (In Progress)
+* **Networking:** Fundamentals
 ---
 
 ### 🛠️ Key Project: Python-CLI-Based-Name-Sorting
