@@ -14,11 +14,3 @@
 
 **Security & Systems**
 * **Networking:** Fundamentals
----
-
-### 🛠️ Key Project: Python-CLI-Based-Name-Sorting
-*A Python-based utility for programmatically managing file I/O operations.*
-
-* **Functionality:** Read, Write, Append a file through the CLI 
-* **Technical Focus:** Being able to read/write/append the contents of a file
-* **Link:** https://github.com/xbrzee/Python-CLI-Based-Name-Sorting.git
