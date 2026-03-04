@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <br> Name : Paritosh Dahal<br> Enthusiast | Student | Sailor<br>
 
 
