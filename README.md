@@ -1,5 +1,5 @@
 
-<br> Name : Paritosh Dahal<br> Enthusiast | Student | Sailor<br>
+<br> Name : Paritosh Dahal<br> Student | Sailor <br>
 
 
 ## 🌐 Socials:
