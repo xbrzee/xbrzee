@@ -1,5 +1,5 @@
 
-<br> Name : Paritosh Dahal<br> Student | Samurai <br>
+<br> Name : Paritosh Dahal<br>
 
 
 ## 🌐 Socials:
