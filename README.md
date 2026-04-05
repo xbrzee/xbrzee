@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,29&text=xbrzee&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Exploit%20Developer&descSize=20&descAlignY=55&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,29&text=Simply%20Lovely&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Exploit%20Developer&descSize=20&descAlignY=55&textBg=false"/>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=xbrzee&theme=vue&radius=10" alt="xbrzee's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=xbrzee&theme=vue&radius=10" alt="Simply Lovely's Activity Graph" />
 </p>
 
 ---
