@@ -6,34 +6,34 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=25&pause=1000&color=B15EFF&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Web+Applications;Exploring+Low-Level+Programming;Aspiring+Exploit+Developer;Learning+Reverse+Engineering+Foundations;Future+Penetration+Tester" alt="Typing SVG" />
 </p>
 
+<div align="center">
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="js" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="ts" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="python" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="c" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="react" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" alt="next" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="html" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="css" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="tail" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="node" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="django" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" alt="sqlite" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="git" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="figma" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" alt="vscode" /></td>
+  </tr>
+</table>
+</div>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" /> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" /> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="50" height="50" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=xbrzee&theme=vue&radius=10" alt="Activity Graph" />
 </p>
 
----
-
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=xbrzee&theme=vue&radius=10" alt="Simply Lovely's Activity Graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter" />
 </p>
 
 <p align="center">
